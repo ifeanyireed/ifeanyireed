@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ifeanyireed
-- 👀 I’m interested in backend development
+- 👀 I’m interested in frontend, backend development and automation
 - 🌱 I’m currently learning Software Engineering in the L2E Program
 - 💞️ I’m looking to collaborate on Web and Mobile App Development
 - 📫 Send an email to ifeanyireed@gmail.com
